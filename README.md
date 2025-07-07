@@ -1,5 +1,5 @@
 # [Travel Itinerary Generator Using AI](Travel-Itinerary-Generator-Using-AI)
-The Travel Itinerary Generator is a web-based application that helps users generate a personalized travel plan based on selected destinations, number of days, and preferences. The system provides an automated schedule including sightseeing spots, activities, and basic travel guidance, translation , making trip planning quick and user-friendly.
+
 
 ***
 
@@ -11,7 +11,7 @@ The Travel Itinerary Generator is a web-based application that helps users gener
 
 <img title="Travel-Itinerary-Generator-Using-AI" align='right' src="/static/logo.png" alt="Travel Itinerary Generator Logo" width="150"/>
 
-Plan your dream trip effortlessly with the Travel Itinerary Generator! This powerful trip planner is your ultimate companion for crafting seamless travel experiences. Whether you're embarking on a road trip, city excursion, or overseas adventure, our tool simplifies the entire planning process.
+The Travel Itinerary Generator is a web-based application that helps users generate a personalized travel plan based on selected destinations, number of days, and preferences. The system provides an automated schedule including sightseeing spots, activities, and basic travel guidance, translation , making trip planning quick and user-friendly.
 
 ## Sample:
 
